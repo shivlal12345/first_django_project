@@ -1,3 +1,3 @@
 # first_django_project
 
-simple django project with an poll application. 
+simple django project with a poll application. 
